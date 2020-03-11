@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LatihanView</string>
+    <string name="button_2">Button 2</string>
+    <string name="buttton_1">Button 1</string>
+    <string name="activity_2">Activity 2</string>
+    <string name="kill_dan_kembali">Kill dan Kembali</string>
+    <string name="activity_kill_intent">Activity Kill intent</string>
+    <string name="activity_3">activity 3</string>
+    <string name="button_null">Button null</string>
+    <string name="kill_activity">Kill Activity</string>
+    <string name="the_title_of_a_blog">The Title of a Blog</string>
+    <string name="mitch_tabian">Mitch Tabian</string>
+    <string name="recycler_view">Recycler View</string>
+</resources>
